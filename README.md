@@ -9,9 +9,9 @@ Also included in this repository is the super handy openvpn-install.sh script th
 
 ----------------------------------------------------------FRANCAIS-------------------------------------------------------------
 
-Suite de scripts bash pour faciliter l'administration d'un service OpenVPN sur Linux. 
+Suite de scripts bash pour faciliter les tests sur un service OpenVPN sur Linux. 
 
-Aussi inclut est un script openvpn-install.sh permettant l'installation & configuration d'un serveur OpenVPN sur Debian, Ubuntu ou CentOS.
+Aussi inclut est un script openvpn-install.sh permettant l'installation & la configuration d'un serveur OpenVPN sur Debian, Ubuntu ou CentOS.
 
 References | Références
 https://github.com/Nyr/openvpn-install 
